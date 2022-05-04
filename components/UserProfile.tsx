@@ -45,6 +45,7 @@ export const UserProfile: FC = () => {
       <input
         className="my-2 mx-2 rounded border border-gray-300 px-3 py-2 text-sm focus:outline-none"
         type="text"
+        placeholder="Username"
         value={editedProfile.username || ''}
         onChange={(e) => update({ ...editedProfile, username: e.target.value })}
       />
