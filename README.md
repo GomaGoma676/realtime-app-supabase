@@ -8,7 +8,7 @@ yarn add -D prettier prettier-plugin-tailwindcss
 npx tailwindcss init -p
 ~~~
 ~~~
-yarn add @supabase/supabase-js react-query@4.0.0-beta.7 zustand @heroicons/react@1.0.6 react-error-boundary date-fns
+yarn add @supabase/supabase-js@1.33.3 react-query@4.0.0-beta.7 zustand @heroicons/react@1.0.6 react-error-boundary date-fns
 ~~~
 https://tailwindcss.com/docs/guides/nextjs
 
